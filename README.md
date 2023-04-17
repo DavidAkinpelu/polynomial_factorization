@@ -1,4 +1,4 @@
-# Transformer based Character Sequence to Sequence
+# Transformer based Sequence to Sequence model with character level tokenization
 A simple transformer model for solving algebraic expressions. The model learns to expand single variable polynomials, where the model takes the factorized sequence as input and predict the expanded sequence. The model was trained on 1 million datasets of polynomial factors and their expansions.  It's strictly for educative purposes.
 
 ## Installation
